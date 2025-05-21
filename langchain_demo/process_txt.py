@@ -12,3 +12,6 @@ def load_documents(directory="books"):
             
     
 load_documents("books")
+"""
+第一次
+"""
